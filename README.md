@@ -11,8 +11,6 @@ Here is where you describe what the program does
 graph TD;
   main-->access_inventory;
   main-->Access retail system;
-  A-->D;
-  A-->E;
 ```
 
 #### Function Diagrams
