@@ -10,7 +10,7 @@ Here is where you describe what the program does
 ```mermaid
 graph TD;
   main-->access_inventory;
-  main-->Access retail system;
+  main-->Access_retail;
 ```
 
 #### Function Diagrams
