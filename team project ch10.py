@@ -1,6 +1,6 @@
 import pickle
 
-def main():
+def main(): #Tristan
     #This list will hold our objects
     inventory_list = []
     
@@ -26,3 +26,9 @@ def main():
         
     else:
         print("Invalid choice.")
+        
+def inventory_menu(): #Bryson
+    pass
+
+def Retail_Menu(): #Tristan
+    pass
